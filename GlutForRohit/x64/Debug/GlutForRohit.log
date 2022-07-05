@@ -1,0 +1,260 @@
+﻿  GlutForRohit.cpp
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(77,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(84,23): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(86,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(117,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(132,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(173,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(305,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(367,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(401,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(404,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(432,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(433,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(434,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(435,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(468,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(475,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(483,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(491,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(568,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(609,29): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(609,29): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(609,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(609,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(609,51): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(609,51): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(610,28): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(610,28): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(610,37): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(610,37): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(610,46): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(610,46): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(611,29): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(611,29): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(611,38): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(611,38): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(611,47): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(611,47): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(654,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(656,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(659,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(669,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(675,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(676,27): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(676,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(676,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(676,13): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(678,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(678,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(678,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(678,13): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(679,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(679,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(679,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(679,13): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(680,27): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(680,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(680,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(680,13): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(681,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(681,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(681,17): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(681,13): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(701,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(711,64): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(727,54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(728,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(730,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(732,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(741,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(742,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(765,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(802,17): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(825,56): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(844,66): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(846,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(846,48): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(847,58): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(848,58): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(849,62): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(850,41): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(851,41): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(880,32): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(967,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(968,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(973,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(974,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(993,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(994,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1004,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1006,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1013,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1015,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1023,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1032,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1044,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1059,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1060,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1062,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1069,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1070,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1072,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1078,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1086,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1100,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1115,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1123,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1126,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1127,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1134,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1135,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1141,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1142,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1153,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1154,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1168,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1169,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1176,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1177,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1186,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1187,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1194,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1195,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1201,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1202,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1211,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1212,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1371,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1383,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1396,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1398,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1422,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1426,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1454,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1460,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1522,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1663,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1665,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1707,43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1707,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1726,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1749,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1751,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1761,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1762,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1774,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1776,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1786,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1787,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1801,45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1801,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1812,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1812,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1853,81): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1853,51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1853,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1859,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1871,90): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1871,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1871,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1876,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1896,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1900,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1905,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1909,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1917,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1921,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1927,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1931,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1937,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1941,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1947,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1951,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1964,53): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1964,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1964,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1967,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1979,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1979,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1979,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1982,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1998,31): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1998,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1998,43): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1998,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1998,68): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1998,68): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1999,15): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1999,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1999,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1999,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1999,54): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(1999,54): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2000,15): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2000,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2000,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2000,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2000,56): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2000,56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2001,15): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2001,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2001,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2001,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2001,56): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2001,56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2002,15): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2002,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2002,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2002,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2002,56): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2002,56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2003,15): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2003,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2003,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2003,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2003,58): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2003,58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2004,15): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2004,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2004,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2004,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2004,58): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2004,58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2005,15): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2005,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2005,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2005,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2005,58): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2005,58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2030,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2033,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2047,29): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2048,29): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2049,29): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2050,32): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2051,32): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2052,32): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2116,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2116,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2130,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2130,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2137,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2137,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2144,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2144,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2157,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2157,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2157,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2158,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2158,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2158,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2170,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2171,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2181,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2183,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2212,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2212,38): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2531,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\alfma\source\repos\GlutForRohit\GlutForRohit\GlutForRohit.cpp(2540,22): warning C4305: '-=': truncation from 'double' to 'float'
+  GlutForRohit.vcxproj -> C:\Users\alfma\source\repos\GlutForRohit\x64\Debug\GlutForRohit.exe
